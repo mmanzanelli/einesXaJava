@@ -1,0 +1,3 @@
+#El fichero "NetAntMaven" contiene ejemplo ANT y MAVEN con Netbeans.
+#El fichero "desdeTerminal" contiene ejemplos desde el terminal, a Maven y Gradle los hice desde la maquina virtual, Maven creo todas las carpetas pero con Gradle no fue posible.
+#El fichero "Gradle" contiene el ejercicio realizado en Netbeans pero no logro hacerlo funcionar.
